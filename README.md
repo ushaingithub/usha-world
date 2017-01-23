@@ -1,2 +1,4 @@
 # usha-world
-just another repository
+
+Hello Everyone,
+My name is Usha. I like web designing and development. I am working on creating new websites.
